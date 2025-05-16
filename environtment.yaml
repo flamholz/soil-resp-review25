@@ -1,0 +1,12 @@
+name: soil-resp-review25
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - seaborn
+  - pandas
+  - numpy
+  - scipy
+  - ipykernel
+  - matplotlib
